@@ -1,0 +1,201 @@
+Order Date,Zone,Product,Revenue,Profit
+2023-08-17,West Zone,Printers,591,246
+2023-06-02,East Zone,Headphones,696,767
+2023-06-27,South Zone,Mobile Phones,4506,573
+2023-02-07,North Zone,Smart Watches,4186,155
+2023-05-09,North Zone,Smart Watches,1020,390
+2023-12-20,North Zone,Headphones,4125,131
+2023-04-04,South Zone,Headphones,3602,287
+2023-03-28,West Zone,Printers,3152,67
+2023-04-28,West Zone,Laptops,3932,339
+2023-01-19,West Zone,Smart Watches,4556,73
+2023-12-15,North Zone,Headphones,1625,457
+2023-11-06,West Zone,Headphones,1766,276
+2023-05-22,West Zone,Smart Watches,4748,722
+2023-08-09,South Zone,Smart Watches,2022,747
+2023-04-23,West Zone,Smart Watches,605,592
+2023-06-24,West Zone,Headphones,2266,756
+2023-04-07,East Zone,Headphones,4257,393
+2023-01-04,East Zone,Mobile Phones,2821,729
+2023-02-13,South Zone,Smart Watches,1200,159
+2023-11-19,West Zone,Headphones,3686,659
+2023-02-15,North Zone,Smart Watches,3049,288
+2023-10-16,East Zone,Mobile Phones,3044,176
+2023-07-14,South Zone,Headphones,4857,277
+2023-04-05,West Zone,Headphones,2121,61
+2023-03-18,East Zone,Headphones,1873,533
+2023-01-24,East Zone,Mobile Phones,4984,601
+2023-12-22,East Zone,Smart Watches,4316,108
+2023-09-07,North Zone,Laptops,512,465
+2023-04-22,North Zone,Laptops,3077,127
+2023-10-25,South Zone,Headphones,4631,333
+2023-08-09,South Zone,Headphones,1391,715
+2023-07-30,South Zone,Printers,2890,146
+2023-10-28,West Zone,Headphones,3881,407
+2023-10-01,South Zone,Smart Watches,2108,259
+2023-09-14,South Zone,Smart Watches,1835,516
+2023-05-02,East Zone,Smart Watches,874,333
+2023-07-28,South Zone,Headphones,2485,562
+2023-01-01,West Zone,Headphones,2246,723
+2023-05-31,West Zone,Headphones,1115,228
+2023-02-22,North Zone,Headphones,2756,374
+2023-02-17,South Zone,Smart Watches,3562,563
+2023-12-26,South Zone,Smart Watches,715,579
+2023-09-26,North Zone,Smart Watches,1971,418
+2023-05-03,West Zone,Printers,1334,160
+2023-11-21,West Zone,Mobile Phones,4140,717
+2023-06-05,South Zone,Printers,3932,618
+2023-04-11,North Zone,Headphones,759,734
+2023-07-29,North Zone,Headphones,1897,174
+2023-10-10,North Zone,Printers,1646,530
+2023-09-18,South Zone,Laptops,3757,125
+2023-06-26,East Zone,Printers,1531,639
+2023-06-02,East Zone,Laptops,809,785
+2023-10-17,North Zone,Printers,2428,145
+2023-05-09,West Zone,Smart Watches,3736,427
+2023-06-05,East Zone,Printers,4742,233
+2023-11-05,North Zone,Mobile Phones,844,770
+2023-11-12,East Zone,Printers,3621,62
+2023-11-11,West Zone,Smart Watches,3702,725
+2023-04-02,North Zone,Printers,2913,573
+2023-03-23,South Zone,Headphones,3763,749
+2023-08-30,South Zone,Headphones,772,276
+2023-11-25,North Zone,Headphones,4737,686
+2023-07-05,North Zone,Printers,3252,595
+2023-03-28,East Zone,Headphones,1694,350
+2023-03-12,North Zone,Mobile Phones,1788,354
+2023-08-14,East Zone,Laptops,3378,57
+2023-04-21,North Zone,Headphones,2132,369
+2023-11-01,South Zone,Mobile Phones,1573,106
+2023-07-09,West Zone,Laptops,3113,685
+2023-03-30,East Zone,Headphones,3171,259
+2023-09-13,West Zone,Mobile Phones,3383,708
+2023-06-20,North Zone,Smart Watches,3023,311
+2023-07-21,North Zone,Laptops,3381,147
+2023-07-30,South Zone,Headphones,825,788
+2023-09-09,North Zone,Laptops,3713,282
+2023-08-18,North Zone,Laptops,3669,791
+2023-10-28,North Zone,Mobile Phones,2006,764
+2023-10-18,West Zone,Smart Watches,4158,169
+2023-09-27,West Zone,Laptops,2509,734
+2023-05-28,East Zone,Smart Watches,2606,588
+2023-11-11,South Zone,Headphones,1771,156
+2023-02-21,South Zone,Printers,4307,85
+2023-08-29,North Zone,Headphones,1001,533
+2023-01-05,West Zone,Smart Watches,2723,141
+2023-07-03,North Zone,Smart Watches,2699,309
+2023-12-21,West Zone,Printers,2623,605
+2023-09-08,East Zone,Mobile Phones,1717,795
+2023-02-15,West Zone,Headphones,3950,377
+2023-10-31,East Zone,Laptops,1824,715
+2023-05-28,South Zone,Laptops,4235,161
+2023-09-29,East Zone,Smart Watches,577,131
+2023-01-07,South Zone,Mobile Phones,3331,476
+2023-06-26,South Zone,Laptops,2601,150
+2023-01-30,West Zone,Printers,3235,71
+2023-03-30,South Zone,Laptops,4529,102
+2023-03-22,West Zone,Printers,4961,471
+2023-12-30,North Zone,Printers,4524,245
+2023-04-27,North Zone,Laptops,2673,74
+2023-06-29,East Zone,Headphones,2639,177
+2023-09-07,East Zone,Printers,1533,94
+2023-12-24,East Zone,Printers,4553,755
+2023-07-20,East Zone,Headphones,3031,730
+2023-03-20,North Zone,Smart Watches,569,75
+2023-05-16,North Zone,Smart Watches,1129,471
+2023-06-03,North Zone,Printers,1660,236
+2023-01-21,South Zone,Mobile Phones,1970,86
+2023-07-22,East Zone,Laptops,516,770
+2023-12-05,North Zone,Smart Watches,4441,713
+2023-11-14,South Zone,Headphones,4860,519
+2023-01-29,South Zone,Laptops,4121,461
+2023-05-10,West Zone,Smart Watches,2189,198
+2023-10-16,South Zone,Headphones,1082,83
+2023-08-14,West Zone,Headphones,3140,248
+2023-10-21,North Zone,Smart Watches,2672,556
+2023-09-15,West Zone,Printers,2585,92
+2023-03-31,South Zone,Headphones,828,245
+2023-03-23,East Zone,Mobile Phones,1515,561
+2023-04-28,South Zone,Headphones,2766,465
+2023-08-26,West Zone,Printers,1664,773
+2023-11-02,West Zone,Mobile Phones,4076,315
+2023-04-11,North Zone,Headphones,2046,359
+2023-09-24,South Zone,Printers,3547,617
+2023-09-23,West Zone,Printers,3564,97
+2023-12-13,West Zone,Headphones,4772,249
+2023-08-31,North Zone,Laptops,1385,87
+2023-04-24,East Zone,Printers,698,708
+2023-07-26,West Zone,Smart Watches,3002,195
+2023-06-29,West Zone,Laptops,3403,241
+2023-09-04,South Zone,Smart Watches,3681,700
+2023-10-22,East Zone,Mobile Phones,2657,389
+2023-12-30,West Zone,Printers,4265,465
+2023-07-19,West Zone,Headphones,3497,533
+2023-07-02,East Zone,Printers,2914,309
+2023-11-11,South Zone,Mobile Phones,3677,679
+2023-09-22,South Zone,Printers,4252,603
+2023-06-05,East Zone,Headphones,2196,678
+2023-08-11,South Zone,Mobile Phones,1622,714
+2023-07-01,North Zone,Smart Watches,1041,691
+2023-06-14,West Zone,Printers,2930,735
+2023-04-15,West Zone,Mobile Phones,2724,614
+2023-09-28,East Zone,Smart Watches,3642,172
+2023-01-16,South Zone,Printers,3689,355
+2023-02-04,East Zone,Smart Watches,3445,731
+2023-08-05,South Zone,Smart Watches,922,66
+2023-08-17,West Zone,Printers,1097,127
+2023-09-11,West Zone,Printers,2894,626
+2023-07-28,West Zone,Laptops,4971,398
+2023-02-22,East Zone,Headphones,4081,408
+2023-09-03,South Zone,Laptops,2199,83
+2023-11-18,South Zone,Smart Watches,3253,320
+2023-07-05,West Zone,Laptops,953,132
+2023-09-25,South Zone,Smart Watches,1713,74
+2023-07-17,North Zone,Laptops,1227,254
+2023-12-21,North Zone,Headphones,4707,636
+2023-11-10,North Zone,Smart Watches,4651,741
+2023-07-19,North Zone,Laptops,1240,108
+2023-05-21,East Zone,Printers,3064,335
+2023-05-29,North Zone,Printers,3942,479
+2023-05-09,East Zone,Headphones,3361,611
+2023-09-06,East Zone,Mobile Phones,4174,555
+2023-04-25,West Zone,Smart Watches,1701,331
+2023-12-07,East Zone,Laptops,630,693
+2023-05-26,North Zone,Printers,3899,476
+2023-09-25,West Zone,Smart Watches,3548,331
+2023-06-12,North Zone,Headphones,2963,684
+2023-10-18,South Zone,Smart Watches,1945,68
+2023-01-12,East Zone,Laptops,3643,579
+2023-08-25,North Zone,Laptops,3356,137
+2023-12-14,West Zone,Headphones,1202,202
+2023-07-15,West Zone,Smart Watches,3704,272
+2023-08-22,West Zone,Smart Watches,3306,417
+2023-04-16,West Zone,Headphones,2388,200
+2023-01-19,West Zone,Headphones,1416,281
+2023-04-08,North Zone,Headphones,911,408
+2023-02-04,West Zone,Printers,1271,287
+2023-07-31,South Zone,Laptops,1724,75
+2023-08-29,North Zone,Mobile Phones,2999,658
+2023-11-11,North Zone,Smart Watches,1805,284
+2023-11-09,East Zone,Headphones,4565,500
+2023-01-14,South Zone,Printers,4949,162
+2023-04-29,South Zone,Laptops,3654,717
+2023-04-07,North Zone,Mobile Phones,4513,556
+2023-09-15,South Zone,Smart Watches,3690,316
+2023-11-16,South Zone,Headphones,3398,661
+2023-01-30,South Zone,Headphones,3476,718
+2023-11-02,West Zone,Printers,3014,131
+2023-01-21,South Zone,Laptops,1819,590
+2023-09-25,North Zone,Headphones,1647,281
+2023-04-15,North Zone,Printers,2743,531
+2023-06-27,South Zone,Printers,3087,452
+2023-10-04,South Zone,Laptops,4680,525
+2023-01-01,East Zone,Mobile Phones,1323,82
+2023-12-04,West Zone,Printers,2963,387
+2023-07-06,North Zone,Smart Watches,2202,199
+2023-01-15,South Zone,Printers,1623,271
+2023-07-23,East Zone,Printers,1301,608
+2023-01-21,West Zone,Laptops,3328,411
+2023-05-02,South Zone,Smart Watches,2586,68
+2023-02-04,South Zone,Laptops,1501,733
+2023-11-10,West Zone,Printers,4869,172
